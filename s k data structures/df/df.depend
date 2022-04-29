@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576401289 source:d:\school\c++\s k data structures\df\main.cpp
+	<iostream>
+	<math.h>
+	<cstdlib>
+

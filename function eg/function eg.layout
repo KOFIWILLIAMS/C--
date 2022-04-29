@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+
+void printMe()
+{
+	cout<<"i feel something"<<endl;
+};
+int main() {
+	printMe();
+	
+	return 0;
+}
+
+[Editors]
+Order=0
+Focused=0
+[Editor_0]
+CursorCol=1
+CursorRow=1
+TopLine=1
+LeftChar=1
